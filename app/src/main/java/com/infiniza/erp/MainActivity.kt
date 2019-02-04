@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //Hi this is my first git hub change
+        // i have added few more lines here in master branch
     }
 }
